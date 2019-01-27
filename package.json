@@ -1,0 +1,18 @@
+{
+  "name": "typescript-quick-start",
+  "version": "1.0.0",
+  "description": "TypeScript Quick Start course seed project",
+  "scripts": {
+    "start": "tsc -b && node dist/main.js"
+  },
+  "private": true,
+  "author": "Tim Sitzer, dba The Resourceful Coder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theresourcefulcoder/typescript-quick-start.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
